@@ -1,0 +1,9 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java / Maven (pentru viitorul backend)
+target/
+
+# Fisiere locale
+.env
